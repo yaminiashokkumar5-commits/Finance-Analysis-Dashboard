@@ -1,6 +1,5 @@
 # Finance-Analysis-Dashboard
 Power BI Finance Analysis Dashboard for transaction trends, customer segments, fees, taxes and financial insights.
-# Finance Analysis Dashboard | Power BI
 
 ## Project Overview
 This project presents an interactive Finance Analysis Dashboard developed using Microsoft Power BI to analyze financial transactions, customer segments and transaction patterns.
@@ -28,12 +27,6 @@ This project presents an interactive Finance Analysis Dashboard developed using 
 - Explore transaction distribution across states and customer groups.
 
 ## Dashboard Preview
-![Finance Analysis Dashboard](Finance_Dashboard.png)
-
-## Project Files
-- `Finance_Analysis.pbix` – Interactive Power BI report
-- `Finance_Dashboard.png` – Dashboard preview
-- ## Dashboard Preview
 
 ![Finance Analysis Dashboard](Finance%20Analysis.png)
 
